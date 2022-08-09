@@ -1,0 +1,26 @@
+.root {
+  margin-left: 15px !important;
+  .post-comments footer {
+    margin: 0;
+    padding: 15px 20px;
+  }
+
+  .stat-item .name {
+    margin-top: 10px;
+  }
+
+  .list-group-item:hover {
+    background-color: darken(rgba(0, 0, 0, 0.24), 0.07);
+  }
+
+  .detail {
+    .x_label {
+      background: rgba(0, 0, 0, 0.24) !important;
+    }
+  }
+}
+
+.searchBtn {
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+}
