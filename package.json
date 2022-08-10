@@ -125,6 +125,6 @@
     "tinycolor2": "^1.4.2"
   },
   "devDependencies": {
-    "chalk": "4.1.0",
+    "chalk": "4.1.0"
   }
 }
