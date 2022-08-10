@@ -166,6 +166,13 @@
     "mini-css-extract-plugin": "0.6.0",
     "pnp-webpack-plugin": "1.4.3",
      "webpack": "4.43.0",
-    "webpack-manifest-plugin": "5.0.0"
+    "webpack-manifest-plugin": "5.0.0",
+    "optimize-css-assets-webpack-plugin": "5.0.1",
+    "pnp-webpack-plugin": "1.7.0",
+    "postcss-flexbugs-fixes": "4.1.0",
+    "postcss-loader": "3.0.0",
+    "postcss-preset-env": "6.6.0",
+    "postcss-safe-parser": "4.0.1",
+    "resolve": "1.10.1"
   }
 }
