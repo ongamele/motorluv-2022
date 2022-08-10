@@ -121,6 +121,7 @@
     "semantic-ui-react": "^2.0.4",
     "styled-components": "^5.3.3",
     "tabler-icons": "^1.10.0",
+    "cross-env": "^7.0.3",
     "tinycolor2": "^1.4.2"
   }
 }
